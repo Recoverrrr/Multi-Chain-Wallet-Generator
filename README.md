@@ -10,3 +10,5 @@ The .exe version will appear as a virus due to Windows flagging .exes, if you do
 Virus Scan: https://www.virustotal.com/gui/file/434627047a43fc2bf60e62e432b7ad60aa1b1b7ec5f3a01128ea22cea58f3b6f/detection
 
 This is my first ever program shared on GitHub, please lmk if you enjoy it or have any feedback! Thank you.
+
+requirements.txt file added 2/13/25, run " pip install -r requirements.txt " to install all the needed dependencies. Hope this helps!
