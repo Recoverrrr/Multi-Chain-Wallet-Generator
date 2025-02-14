@@ -1,0 +1,7 @@
+customtkinter
+pynacl
+base58
+mnemonic
+eth-account
+bit
+tronpy
